@@ -19,6 +19,7 @@ const generateMealPlan = meals => {
     console.log(`Breakfast: ${pickBreakfast}`);
     console.log(`Lunch: ${pickLunch}`);
     console.log(`Dinner: ${pickDinner}`);
+    console.log('Have a wonderful day! (ﾉ･_-)☆');
 };
 
 generateMealPlan(mealPlans);
